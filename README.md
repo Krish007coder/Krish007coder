@@ -9,7 +9,6 @@
 * 👯 **I’m looking to collaborate on:** AI/ML, Data Science, Computer Vision, and Full-Stack Development projects.
 * 🤔 **I’m looking for help with:** Open-source contributions, scalable AI systems, and real-world machine learning deployments.
 * 💬 **Ask me about:** Python, SQL, DSA, Data Analytics, Power BI, Git/GitHub, MERN Stack, and Machine Learning fundamentals.
-* 📫 **How to reach me:** Your Email Here
 * 🎓 **Education:** B.Tech in Chemical Engineering, IIT Hyderabad
 * ⚡ **Career Interests:** AI/ML Engineering, Data Science, Software Engineering, and Quantitative Finance.
 * 🚀 **Current Goal:** Building impactful projects, securing internships, and continuously improving my technical skills through hands-on development and problem-solving.
