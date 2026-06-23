@@ -1,35 +1,100 @@
+```markdown
 # 💫 Hi 👋, I'm Krish
 
-**A Chemical Engineering undergraduate at IIT Hyderabad passionate about AI/ML, Data Science, Software Development, and Quantitative Finance.**
+### Data Science & Analytics Enthusiast | Chemical Engineering @ IIT Hyderabad
 
-📧 **Email Me:** kristark7122004@gmail.com for collaboration, projects, internships, or networking opportunities.
+I enjoy building end-to-end data projects that transform raw data into actionable insights using Python, SQL, and Power BI. Currently expanding my skills in Data Structures & Algorithms, Machine Learning, and Software Development through hands-on projects.
 
-* 🔭 **I’m currently working on:** AI/ML projects, data analytics dashboards, and full-stack web applications.
-* 🌱 **I’m currently learning:** Data Structures & Algorithms, Machine Learning, Computer Vision, System Design, and Quantitative Finance.
-* 👯 **I’m looking to collaborate on:** AI/ML, Data Science, Computer Vision, and Full-Stack Development projects.
-* 🤔 **I’m looking for help with:** Open-source contributions, scalable AI systems, and real-world machine learning deployments.
-* 💬 **Ask me about:** Python, SQL, DSA, Data Analytics, Power BI, Git/GitHub, MERN Stack, and Machine Learning fundamentals.
-* 🎓 **Education:** B.Tech in Chemical Engineering, IIT Hyderabad
-* ⚡ **Career Interests:** AI/ML Engineering, Data Science, Software Engineering, and Quantitative Finance.
-* 🚀 **Current Goal:** Building impactful projects, securing internships, and continuously improving my technical skills through hands-on development and problem-solving.
-* 🌟 **Fun Fact:** I enjoy learning by building projects and turning complex problems into practical solutions.
+📧 **Email:** kristark7122004@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/krish-sarvin
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-sarvin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kristark7122004@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🎓 About Me
 
+- 🎓 B.Tech in Chemical Engineering at IIT Hyderabad
+- 📊 Interested in Data Science, Data Analytics, AI/ML, and Software Development
+- 🌱 Currently learning Data Structures & Algorithms and Machine Learning
+- 🚀 Building practical projects focused on data analysis and visualization
+- 🎯 Seeking internship opportunities in Data Science, Analytics, and Software Engineering
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Krish007coder&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Krish007coder&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Krish007coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Current Focus
 
+- Building end-to-end Data Analytics projects
+- Strengthening Python and SQL skills
+- Practicing Data Structures & Algorithms
+- Learning Machine Learning fundamentals
+- Exploring Quantitative Finance concepts
 
+---
 
+## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-sarvin)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kristark7122004@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge)
+
+### Development
+
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+🚧 Currently building:
+
+- Vendor Performance Analytics Dashboard
+- AI Resume Analyzer
+- Industrial AI Vision System
+- Customer Churn Prediction
+- End-to-End Sales Analytics Dashboard
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish007coder&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Career Interests
+
+- Data Science
+- Data Analytics
+- AI/ML Engineering
+- Software Engineering
+- Quantitative Finance
+
+---
+
+### 🚀 Always learning, building, and improving.
+```
