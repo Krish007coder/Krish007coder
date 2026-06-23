@@ -1,4 +1,3 @@
-```markdown
 # 💫 Hi 👋, I'm Krish
 
 ### Data Science & Analytics Enthusiast | Chemical Engineering @ IIT Hyderabad
@@ -97,4 +96,3 @@ I enjoy building end-to-end data projects that transform raw data into actionabl
 ---
 
 ### 🚀 Always learning, building, and improving.
-```
