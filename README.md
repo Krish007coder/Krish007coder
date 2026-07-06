@@ -1,38 +1,38 @@
-```markdown
 # 💫 Hi 👋, I'm Krish
 
 ### AI/ML • Data Science • Full-Stack Developer
 
 🎓 **Chemical Engineering Undergraduate at IIT Hyderabad**
 
-I build end-to-end AI and data-driven applications that solve real-world problems using Machine Learning, Data Analytics, and Modern Web Technologies. I enjoy designing scalable software, extracting insights from data, and building production-ready applications.
+I build end-to-end AI and data-driven applications that solve real-world problems using Machine Learning, Data Analytics, and Modern Web Technologies. I'm passionate about designing scalable software, extracting insights from data, and building production-ready applications.
 
 📫 **Email:** kristark7122004@gmail.com  
 💼 **LinkedIn:** https://linkedin.com/in/krish-sarvin
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Project
 
-## 🤖 Interview IQ — AI-Powered Mock Interview Coach
+### 🤖 Interview IQ — AI-Powered Mock Interview Coach
 
 An intelligent full-stack interview platform that analyzes resumes, generates personalized interview questions using LLMs, evaluates candidate responses, and provides detailed AI-powered feedback.
 
-### Key Features
+### ✨ Highlights
 
 - 📄 AI Resume Parsing
 - 🤖 Personalized Interview Generation
-- 🎙️ Voice & Text Answer Support
+- 🎙️ Voice & Text Interview Support
 - 📊 AI Evaluation & Performance Reports
 - 🔐 Firebase Authentication
 - 💳 Razorpay Payment Integration
-- 📄 PDF Report Generation
+- 📑 PDF Report Generation
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `Firebase` • `OpenRouter` • `Razorpay`
 
-🔗 **Repository:** https://github.com/Krish007coder/Ai-interview-agent
+🔗 **Repository:**  
+https://github.com/Krish007coder/Ai-interview-agent
 
 ---
 
@@ -50,12 +50,10 @@ An intelligent full-stack interview platform that analyzes resumes, generates pe
 
 ### Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### AI / Machine Learning
 
@@ -64,32 +62,26 @@ An intelligent full-stack interview platform that analyzes resumes, generates pe
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
----
-
 ### Data Analytics
 
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge)
 
----
+### Full-Stack Development
 
-### Web Development
-
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
----
+### Tools
 
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -108,5 +100,4 @@ An intelligent full-stack interview platform that analyzes resumes, generates pe
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
-```
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
