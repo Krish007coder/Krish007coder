@@ -14,9 +14,9 @@ I build end-to-end AI, Data Science, and Full-Stack applications that solve real
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **📊 Vendor Performance Analytics** | End-to-end data engineering and business intelligence platform analyzing millions of retail transactions to identify supplier risks, optimize procurement, and generate executive dashboards with statistical insights.<br><br>🌐 **Live:** https://vendor-performance-analytics.onrender.com <br>💻 **GitHub:** https://github.com/Krish007coder/vendor-performance-analytics | Python • SQL • SQLite • Pandas • FastAPI • Chart.js |
-| **🤖 Interview IQ** | AI-powered mock interview platform that analyzes resumes, generates personalized interview questions using LLMs, evaluates candidate responses, and provides detailed AI-powered feedback.<br><br>💻 **GitHub:** https://github.com/Krish007coder/Ai-interview-agent | React • Node.js • Express.js • MongoDB • Firebase • OpenRouter |
-| **📄 DocBuddy** | Privacy-first SaaS PDF toolkit offering merge, split, compress, rotate, watermark, encrypt, unlock, and document conversion features with automatic deletion of uploaded files after 10 minutes.<br><br>💻 **GitHub:** https://github.com/Krish007coder/DocBuddy | React • Node.js • Express.js • Tailwind CSS • pdf-lib • PDF.js |
+| **📊 Vendor Performance Analytics** | End-to-end data engineering and business intelligence platform analyzing millions of retail transactions to identify supplier risks, optimize procurement, and generate executive dashboards with statistical insights.<br> | Python • SQL • SQLite • Pandas • FastAPI • Chart.js |
+| **🤖 Interview IQ** | AI-powered mock interview platform that analyzes resumes, generates personalized interview questions using LLMs, evaluates candidate responses, and provides detailed AI-powered feedback.<br> | React • Node.js • Express.js • MongoDB • Firebase • OpenRouter |
+| **📄 DocBuddy** | Privacy-first SaaS PDF toolkit offering merge, split, compress, rotate, watermark, encrypt, unlock, and document conversion features with automatic deletion of uploaded files after 10 minutes. | React • Node.js • Express.js • Tailwind CSS • pdf-lib • PDF.js |
 
 ---
 # 💻 Tech Stack
